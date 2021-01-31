@@ -1,0 +1,1 @@
+This is a very basic operating system cuz im not that good with this kind of stuff.
